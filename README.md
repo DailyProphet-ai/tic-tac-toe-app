@@ -3,7 +3,7 @@
 This is a simple tutorial to react basic components with ReactJS:
 https://reactjs.org/tutorial/tutorial.html
 
-![Sample image](images/tic-tac-toe-screenshot.png)
+![Sample image](/images/tic-tac-toe-screenshot.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
