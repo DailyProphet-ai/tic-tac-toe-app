@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-This is a simple tutorial to react basic components with ReactJS:
+This is a simple tutorial to learn the basics of ReactJS:
 https://reactjs.org/tutorial/tutorial.html
 
 ![Sample image](/images/tic-tac-toe-screenshot.png)
